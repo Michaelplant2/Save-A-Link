@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    letter-spacing: 1px;
 }
 
 body {
@@ -15,6 +16,8 @@ input {
 }
 
 button {
+    font-size: 15px;
+    font-weight: bold;
     background: royalblue;
     color: white;
     margin-top: 10px;
